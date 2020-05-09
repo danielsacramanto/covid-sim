@@ -126,3 +126,13 @@ If you do find issues with the code please raise them in our
 This repository has a code of conduct which is detailed in
 [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).  When raising an issue in this
 repository you agree to abide by the [code of conduct](./CODE_OF_CONDUCT.md).
+
+
+
+
+
+
+
+
+
+* [Quoteish](https://www.quoteish.org/) - A collection of famous quotes and sayings.
